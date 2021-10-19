@@ -9,9 +9,9 @@ written purely with python.
 
 python packages
 
-beautifulsoup 4.9.3
-requests 2.24.0
-python 3.8.10
-pip 21.1.1
-sqlite3 2.6.0
+- beautifulsoup 4.9.3
+- requests 2.24.0
+- python 3.8.10
+- pip 21.1.1
+- sqlite3 2.6.0
 
