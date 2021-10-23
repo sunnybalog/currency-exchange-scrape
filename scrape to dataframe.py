@@ -31,7 +31,7 @@ def scrape_cdn_exchange():
             rate = float(columns[2].text.strip())
             df = df.append({'Currency': currency, 'Description': description, 'Rate': rate}, ignore_index=True)
 
-# create csv file with filename as of time of exchanged displayed on the webpage
+# create csv file with filename as the date of exchange displayed on the webpage
     child_soup = soup.find_all('h2')
     for a_text in child_soup:
         if 'Exchange Rates as of' in a_text.text:
