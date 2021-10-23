@@ -1,5 +1,8 @@
 
 - This is part of my journey into Python
+- This was borne out of desire to scrape and store daily exchange rate displayed on a canadian website.
+  - Store the data automatically at a particular time of the day as long as the computer has access to internet without any intervention
+  - Run the script from an IDE and have your data stored automatically with correct date appended.
 
 currency-exchange-scrape python script
 
