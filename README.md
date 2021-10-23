@@ -16,4 +16,5 @@ python packages used.
 - python 3.8.10
 - pip 21.1.1
 - sqlite3 2.6.0
+- pandas 1.3.4
 
