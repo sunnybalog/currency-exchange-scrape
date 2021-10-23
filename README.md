@@ -1,5 +1,7 @@
+
+- This is part of my journey into Python
+
 currency-exchange-scrape python script
-This is part of my journey in Python
 
 Aim to scrape exchange rate for the canadian currency to other currencies provided by the official canadian webpage and stores data into different format. 
 this is very good for someone learning python and data science
