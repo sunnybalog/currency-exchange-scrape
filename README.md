@@ -25,3 +25,4 @@ python packages used.
 - sqlite3 2.6.0
 - pandas 1.3.4
 
+Disclaimer:  The web urls used for this scraping is for learning purpose only.
